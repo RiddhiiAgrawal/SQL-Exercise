@@ -8,3 +8,4 @@ This contain the result for SQL queries
 ![image](https://github.com/RiddhiiAgrawal/SQL-Exercise/assets/154056712/e8e25f67-2120-438c-8b49-1867a92e663d)
 ![image](https://github.com/RiddhiiAgrawal/SQL-Exercise/assets/154056712/14c49e06-62f4-4f4c-925d-1a04645f300a)
 ![image](https://github.com/RiddhiiAgrawal/SQL-Exercise/assets/154056712/34d13f3c-03fa-4651-8762-b482ec5d59c1)
+![image](https://github.com/RiddhiiAgrawal/SQL-Exercise/assets/154056712/0dd9c003-287f-4aa3-a7e6-c5acf696da2e)
